@@ -1,4 +1,4 @@
-HRSense: Joint Urban Sensing and Crowdsourcing with Human-Robot Collaboration
+HRSense: Joint Real-time Crowdsourcing and Urban Sensing with Human-Robot Collaboration
 ### Experiment Data Files
 
 - [ ] Experiment Order data (Eleme): **data/order_data_test_2020_1013-1014_zhonghuan.csv** .
